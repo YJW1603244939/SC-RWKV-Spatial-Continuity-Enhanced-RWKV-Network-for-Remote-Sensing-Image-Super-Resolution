@@ -1,1 +1,1 @@
-# SC-RWKV-Spatial-Continuity-Enhanced-RWKV-Network-for-Remote-Sensing-Image-Super-Resolution
+The source code will be made publicly available upon acceptance of the paper.
